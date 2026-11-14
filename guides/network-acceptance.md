@@ -54,4 +54,8 @@
 
 ## Автор
 
-Методика подготовлена AVLeads. [Доработка мобильных приложений](https://avleads.ru/dorabotka-prilozheniy?utm_source=github&utm_medium=referral&utm_campaign=network_acceptance_20261112&utm_content=network_guide).
+Методика подготовлена AVLeads.
+
+Если в вашем приложении заявки теряются или появляются повторно, опишите, какое действие выполняет пользователь, что происходит фактически и какой результат нужен. Ссылку на опубликованное приложение можно приложить, если она есть; пароли, ключи API и данные клиентов отправлять не нужно.
+
+[Обсудить доработку приложения в AVLeads](https://avleads.ru/dorabotka-prilozheniy?utm_source=github&utm_medium=referral&utm_campaign=network_acceptance_20261112&utm_content=network_guide).
